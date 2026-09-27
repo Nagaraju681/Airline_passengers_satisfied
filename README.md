@@ -300,9 +300,7 @@ The Machine Learning model is integrated into a Streamlit web application.
 
 Add your Streamlit application URL here:
 
-```text
-Coming Soon
-```
+(https://airlinepassengerssatisfied-j2ldcfpb6w2e7dqcabutlu.streamlit.app/)
 
 ---
 
